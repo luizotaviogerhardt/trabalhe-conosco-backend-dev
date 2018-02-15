@@ -2,6 +2,8 @@
 
 ![imagem](https://i.imgur.com/t4fArwp.jpg)
 
+[Video da aplicação](https://www.youtube.com/watch?v=qVcYiPVqx9w)
+
 
 ## Tecnologias utilizadas
 
